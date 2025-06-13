@@ -2,7 +2,6 @@ INVESTIGATION OUTCOME
 
 The cash-deposit and structuring activity reviewed for J & M Legacy Construction LLC (Party ID 15051217038) and its owner Jose V. Martinez (Party ID 40075616881) is ordinary for a small, cash-paid construction firm. No Suspicious Activity Report (SAR) will be filed.
 
----
 
 OVERVIEW OF THE ALERTS
 
@@ -12,7 +11,7 @@ Between 8 January and 30 May 2025 the monitoring system raised three scenarios:
  Large single ATM deposits – one or more envelopes of USD 5 000 + recorded in the same seven-day window.
  Possible structuring – two or more sub-USD 10 000 cash deposits recorded in a short period.
 
----
+
 
 EVENTS THAT TRIGGERED THE ALERTS
 
@@ -29,7 +28,7 @@ Possible structuring
 10 Feb 2025 two deposits USD 11 030
 17 – 19 Mar 2025 three deposits USD 12 680
 
----
+
 
 MITIGATION
 
@@ -37,13 +36,13 @@ J & M Legacy Construction operates as a residential contractor (NAICS 238990).  
 
 Taken together, the facts indicate routine business cash flow and not suspicious activity.
 
----
+
 
 ONGOING CONTROLS
 
 The relationship remains in the cash-intensive-business monitoring segment.  Escalation triggers are set for any future seven-day cash total above USD 25 000, for foreign transfers, or for posting-tab activity inconsistent with construction work.
 
----
+
 
 OPEN-SOURCE RESEARCH SUMMARY
 
