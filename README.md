@@ -5,7 +5,7 @@ Between 19 March 2025 and 23 May 2025 Bank of America monitoring flagged cash ac
 * Structuring alert — on 19 March 2025 two $8,000 deposits were made the same morning at different ATMs, each below the $10 000 CTR threshold.
 * Large-cash weekly spikes — during the weeks of 4 – 10 May and 18 – 24 May the account received unusually high cash totals of $25,500 and $35,980, each well above the customer’s 90-percentile weekly cash volume.
 
----
+
 
 2. Chronology of the Alerting Deposits
 
@@ -16,7 +16,7 @@ Between 19 March 2025 and 23 May 2025 Bank of America monitoring flagged cash ac
 * 20 May 2025 — $17,000 at 3035 Route 46, Paris NJ
 * 23 May 2025 — $18,980 at 3035 Route 46, Paris NJ
 
----
+
 
 3. Business Profile & Plausible Cash-Flow Context
 
@@ -24,7 +24,7 @@ Open-source records confirm KT Appliances LLC runs an appliance store at 155 She
 
 A related entity, KT Delivery LLC (USDOT 2408114), holds federal motor-carrier authority and maintains its own Bank of America account.  It is plausible that delivery staff collect cash-on-delivery balances for KT Appliances and use convenient Route 46 ATMs for deposits.  Public searches show no sanctions hits, adverse media, or regulatory actions for either company through June 2025.
 
----
+
 
 4. Mitigation Analysis – Interpreting the Deposit Pattern
 
@@ -33,7 +33,7 @@ A related entity, KT Delivery LLC (USDOT 2408114), holds federal motor-carrier a
 * The weekly totals of $25,500 (week ending 10 May) and $35,980 (week ending 24 May) likely represent several days of aggregated retail receipts and delivery collections reconciled at week-end or mid-month, a common practice in appliance retail.
 * A prior same-day split on 7 January 2025 at 507 Mola Boulevard, Elmwood Park NJ placed $6,600 into the KT Delivery account and $5,300 into the KT Appliances account—indicating a bookkeeping choice to keep revenue streams separate, not an attempt to hide cash.  No similar cross-account splits appear later, and both entities subsequently deposited well above $10 000.
 
----
+
 
 5. Overall Inflows and Outflows – Regular Business Activity
 
@@ -49,7 +49,7 @@ KT Delivery account
 * Inflows are limited to a $6,600 cash deposit on 7 January 2025 and two P2P credits on 13 January 2025 of $1,200 and $500—amounts consistent with payment for delivery runs.
 * Outflows are small debit-card purchases such as $81.43 at Family Dollar on 1 January 2025 and $12 at 7-Eleven on 30 December 2024, typical incidental operating expenses.
 
----
+
 
 6. Conclusion
 
