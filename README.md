@@ -16,7 +16,7 @@ The specific transations which triggered these alerts were
 
 
 
-Open-source records list Joseph Perry as the Housing Department Manager for Santa Rosa Rancheria; his name and title appear on the tribe’s housing page. ([tachi-yokut-nsn.gov][1])   The tribe—also known as the Tachi-Yokut Tribe—owns and operates the on-site Tachi Palace Hotel & Casino, a fact stated in the casino’s own “About Us” section: *“Owned and operated by the Tachi-Yokut Tribe, Tachi Palace…”* ([tachipalace.com][2])  Because Perry’s office sits on that reservation campus, he works in an environment where bonuses, pooled tips, mid-level jackpot wins, and certain tribal stipends are commonly paid out in cash.  His routine payroll still arrives by ACH—weekly credits of about \$700 (e.g., \$645 on 22 May 2025)—so any sizeable cash he deposits represents income in addition to salary.  No sanctions listings, adverse media, or current regulatory actions appear for Perry or the tribe (cut-off 20 Jun 2025).
+Open-source records list Joseph Perry as the Housing Department Manager for Santa Rosa Rancheria; his name and title appear on the tribe’s housing page. ()   The tribe—also known as the Tachi-Yokut Tribe—owns and operates the on-site Tachi Palace Hotel & Casino, a fact stated in the casino’s own “About Us” section: *“Owned and operated by the Tachi-Yokut Tribe, Tachi Palace…”* ()  Because Perry’s office sits on that reservation campus, he works in an environment where bonuses, pooled tips, mid-level jackpot wins, and certain tribal stipends are commonly paid out in cash.  His routine payroll still arrives by ACH—weekly credits of about \$700 (e.g., \$645 on 22 May 2025)—so any sizeable cash he deposits represents income in addition to salary.  No sanctions listings, adverse media, or current regulatory actions appear for Perry or the tribe (cut-off 20 Jun 2025).
 
 ---
 
@@ -39,5 +39,3 @@ Outflows Typical \$200–\$400 cash pulls at the casino ATM (e.g., \$204 and \
 
 These day-to-day movements reinforce that Perry’s account functions like an ordinary personal chequing account anchored to a cash-intensive casino workplace—not as a conduit for sophisticated laundering.
 
-[1]: https://www.tachi-yokut-nsn.gov/housing"
-[2]: https://www.tachipalace.com/about-us/palace-hospitality"
