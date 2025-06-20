@@ -18,9 +18,9 @@ The specific transations which triggered these alerts were
 
 Open-source records list Joseph Perry as the Housing Department Manager for Santa Rosa Rancheria; his name and title appear on the tribe’s housing page. ()   The tribe—also known as the Tachi-Yokut Tribe—owns and operates the on-site Tachi Palace Hotel & Casino, a fact stated in the casino’s own “About Us” section: *“Owned and operated by the Tachi-Yokut Tribe, Tachi Palace…”* ()  Because Perry’s office sits on that reservation campus, he works in an environment where bonuses, pooled tips, mid-level jackpot wins, and certain tribal stipends are commonly paid out in cash.  His routine payroll still arrives by ACH—weekly credits of about \$700 (e.g., \$645 on 22 May 2025)—so any sizeable cash he deposits represents income in addition to salary.  No sanctions listings, adverse media, or current regulatory actions appear for Perry or the tribe (cut-off 20 Jun 2025).
 
----
 
-4 | Mitigation Narrative – Casino-Linked Cash Pattern
+
+Mitigation Narrative – Casino-Linked Cash Pattern
 
 Five month-opening deposits arrive as single \$5 k–\$6 k bundles.  Each is one intact lump—never sliced—so the behaviour lacks structuring hallmarks.  Given the tribe’s practice of paying incentives, gaming proceeds, or benefit distributions in cash, these deposits plausibly reflect legitimate windfalls that Perry banks for safekeeping.
 
@@ -30,9 +30,9 @@ The structured-withdrawal alert covers two \$200 ATM pulls on 18 Mar and a \$10 
 
 Taken together—steady ACH wages, periodic intact cash deposits tied to casino activity, routine small cash outs, and consumer-level card spends—the account aligns with normal personal finance for a tribal employee in a cash-rich setting, not with layering or systematic structuring.  Confirming the precise source of each monthly deposit and the purpose of the \$10 000 withdrawal would close the remaining diligence gap.
 
----
 
-5 | Sampling of Inflows & Outflows
+
+Sampling of Inflows & Outflows
 
 Inflows Weekly ACH payroll from Santa Rosa Rancheria (\$645 on 22 May 2025) and small Zelle credits from Angel Barbosa (\$20 “casino food” on 15 May 2025).
 Outflows Typical \$200–\$400 cash pulls at the casino ATM (e.g., \$204 and \$304 on 11 Apr 2025) plus discretionary card spends such as \$77 at the Tachi Palace Hotel (19 May 2025) and \$32 at Taco Bell (20 May 2025).
