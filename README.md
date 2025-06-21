@@ -12,7 +12,7 @@ The specific transactions causing those alerts were:
 - 07-Apr-2025 — $7,000 cash deposit at financial center in Jacksonville, FT
 
 
-Open source research reveals that Anderson Veloso Moreira controls two Florida entities at 12114 Irwin Manor Dr, Jacksonville: Pro Outdoor Solutions Corp (google query reveals hit for company website with same address as Moreira and indicates that services provided include outdoor remodeling per ) and Moreira Professional Services Corp (open source research could not confirm that exact nature of this business). Payroll checks from the latter are routinely deposited, reflecting owner compensation.
+Open source research reveals that Anderson Veloso Moreira controls two Florida entities at 12114 Irwin Manor Dr, Jacksonville: Pro Outdoor Solutions Corp (google query reveals hit for company website with same address as Moreira and indicates that services provided include outdoor remodeling per ) and Moreira Professional Services Corp (open source research could not confirm that exact nature of this business but was able to confrim filing with Flordia government per ). Payroll checks from the latter are routinely deposited, reflecting owner compensation.
 
 
 Cash activity totals $28,100 across five single-lump deposits. There is only a sinlge instance of sub-48 hour deposits which aggregate to above the reproting threshold: the $6,300 on 17-Mar and $6,000 on 19-Mar—did. No similar sub-48hr clusters are present during the review period. Mid-March marks peak outdoor-remodeling season in Florida, when multiple projects close and clients can potentially pay on site in the form of cash. Overall, there is not a clear pattern indicating Moreira is intentionally structuring deposits to avoid regulatory filings. 
