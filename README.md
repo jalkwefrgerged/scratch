@@ -23,9 +23,8 @@ The wires of $20,000 and $10,230 were directed to Rezzy Motorsports, an establis
 
 
 A sampling on inflows and outflows further supports a picture of regular business operations and non-suspicous activity,
-- 08-Apr-2025 — $6,500 check labeled “pool paid in full,” evidencing pool-remodel revenue.
-- Regular payroll checks from Moreira Professional Services Corp, e.g., $1,276 deposited 11-Mar-2025.
-- Teller transfers to established domestic counterparties such Top Cars Auto Group. As a client of Bank of America customer, Top cars Auto Group is listed as an automotive dealer and open source research reveals an active businesss regression with the state of Florida (). As an established car sales entity, this counterparty does not pose high-risk characteristics.
+- Inflows: 08-Apr-2025 — $6,500 check labeled “pool paid in full,” evidencing pool-remodel revenue; regular payroll checks from Moreira Professional Services Corp, e.g., $1,276 deposited 11-Mar-2025.
+- Outflows: teller transfers to established domestic counterparties such Top Cars Auto Group. As a client of Bank of America customer, Top cars Auto Group is listed as an automotive dealer and open source research reveals an active businesss regression with the state of Florida (). As an established car sales entity, this counterparty does not pose high-risk characteristics. Then there are reoccuring discretionary items such as payment to LA Fitness, e.g., $64 on 4/6/2025.
 
 
 Taken together, the cash deposits, related-party payroll, pool-remodel check, equipment wires, and routine transfers to known merchants reflect ordinary seasonal revenue and legitimate business expenditures for a cash-intensive outdoor-remodeling enterprise and do not raise reasonable suspicion of money laundering or structuring.
