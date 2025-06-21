@@ -1,4 +1,4 @@
-The following alerts were triggered by account activity:
+The following alerts were triggered:
 
 - ATM large cash deposits where single cash transactions occur that are larger than $3,000 within 7 calendar days on a weekly basis
 - Structured cash withdrawal from personal parties
