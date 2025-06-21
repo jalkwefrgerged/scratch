@@ -1,31 +1,28 @@
-The following alerts were triggered:
+The following alerts were triggered by account activity:
+- Cash-and-wire velocity alert — cash deposits ≥ $25 K followed by comparable wires inside 30 days.
+- Cash structuring proximity alert — several cash deposits < $10 K posted within three consecutive days that together exceed $10 K.
 
-- ATM large cash deposits where single cash transactions occur that are larger than $3,000 within 7 calendar days on a weekly basis
-- Structured cash withdrawal from personal parties
-
-
-The specific transations which triggered these alerts were
-
-- ATM Large cash deposits (all via the same branch ATM at 180 N Reddington St, Hanford, CA 93230): 01-Jan-2025 for $6,300, 01-Feb-2025 for $5 700, 27-Feb-2025 for $5,000, 01-Apr-2025 for $5,000, for 01-May-2025 $4 700, 30-May-2025 for $5,800
-- Structured Cash Withdrawals:, 18-Mar-2025 for $200 (ATM — 17225 Jersey Ave), 18-Mar-2025 for $200 (ATM — 17225 Jersey Ave), and 19-Mar-2025 for $10 000 (Financial Center at 180 N Reddington St, Hanford, CA 93230)
-
-
-Open-source records list Joseph Perry as the Housing Department Manager for Santa Rosa Rancheria; his name and title show on the tribe’s housing page. ()   The tribe—also known as the Tachi-Yokut Tribe—owns and operates the on-site Tachi Palace Hotel & Casino ()  Because Perry’s office sits on that reservation campus, he works in an environment where bonuses, income, and/or certain tribal stipends can be paid out in cash. 
-
+The specific transactions causing those alerts were:
+- 11-Mar-2025 — $20,000 outgoing wire to Rezzy Motorsports
+- 14-Mar-2025 — $10,230 outgoing wire to Rezzy Motorsports
+- 17-Mar-2025 — $6,300 cash deposit
+- 19-Mar-2025 — $6,000 cash deposit
+- 24-Mar-2025 — $6,000 cash deposit
+- 28-Mar-2025 — $2,800 cash deposit
+- 07-Apr-2025 — $7,000 cash deposit
 
 
-The activity is being deemed not suspicous becuase of the lack of a reoccuring pattern and the casino-releated nature of the cash activity. Five month-opening deposits arrive as single $5 k–$6 k bundles.  Each is one intact lump—never sliced over a short time period—so the behaviour lacks structuring hallmarks.  Given the tribe’s practice of paying incentives, gaming proceeds, or benefit distributions in cash, these deposits plausibly reflect legitimate income that Perry recieves from the tribe.
+Anderson Veloso Moreira controls two Florida entities at 12114 Irwin Manor Dr, Jacksonville: Pro Outdoor Solutions Corp (website markets full outdoor remodeling—landscaping, hard-scape, pool upgrades) and Moreira Professional Services Corp. Payroll checks from the latter are routinely deposited, reflecting owner compensation.
 
 
-Perry routinely pulls $200–$400 at the casino ATM located at 317 Tachhi PA-7218 Lemoore, CA. For instance, he made withdrawl of $204 on 04 Apr 2025 and $104 on 03 Mar 2025. He also makes modest card purchases at the Tachi Palace Hotel where the tribal casino is located, e.g., $77 on 19 May 2025, and also makes also discretionary purchases such as $32 at Taco Bell on 20 May 2025. THis reflects everyday living and casual gaming for someone already on the property.
+Cash activity totals $28,100 across five single-lump deposits. There is only a sinlge instance of sub-48 hour deposits which aggregate to above the reproting threshold: the $6,300 on 17-Mar and $6,000 on 19-Mar—did. No similar sub-48hr clusters are present during the review period. Mid-March marks peak outdoor-remodeling season in Florida, when multiple projects close and clients can potentially pay on site in the form of cash.
 
+The wires of $20,000 and $10,230, sent three days apart, were directed to Rezzy Motorsports, an established domestic powersports dealer (). A two-part “deposit plus balance-due” schedule fits purchase of a utility/ATV vehicle useful for hauling trailers, landscaping materials, and pool-construction supplies into confined backyards. 
 
-The structuring alert was caused by a $10,000 withdrawal on 19 Mar 2025 at Perry's usual Hanford branch (where he made the cash deposits) that coincided with his regular day-to-day debits at the casino ATM, specifically the two $204 withdrawls on 18 Mar 2025 at the casino ATM. This single withdrawl likely represents a one-time splurge. It is not part of a consistent pattern of splitting large cash deposits over short periods of time to avoid filing requirements. Taken together—regular monthly cash deposits likley tied to triabl cash payments, routine small cash outs, and consumer-level card spends—the account aligns with normal personal finance for a tribal employee in a cash-rich setting, not with layering or systematic structuring.
+A sampling on inflows and outflows further supports a picture of regular business operations and non-suspicous activity,
+- 08-Apr-2025 — $6,500 check labeled “pool paid in full,” evidencing pool-remodel revenue.
+- Regular payroll checks from Moreira Professional Services Corp, e.g., $1,276 deposited 11-Mar-2025.
+- Teller transfers to established domestic counterparties such Top Cars Auto Group. As a client of Bank of America customer, Top cars Auto Group is listed as an automotive dealer and open source research reveals an active businesss regression with the state of Florida (). Top Cars Auto Group is an estbalished business and does not pose high-risk characteristics.
+- Debit-card fuel and hardware purchases: 22 posts ranging $38–$212 during the period.
 
-
-A sampling of inflows & outflows reinforce that Perry’s account functions like an ordinary personal checking account anchored to a cash-intensive casino workplace.
-- Inflows: Weekly ACH payroll from Santa Rosa Rancheria ($645 on 22 May 2025) and small Zelle credits from Angel Barbosa ($20 “casino food” on 15 May 2025).
-- Outflows: Typical $200–$400 cash pulls at the casino ATM (e.g., $204 and $304 on 11 Apr 2025) plus discretionary card spends such as $77 at the Tachi Palace Hotel (19 May 2025) and $32 at Taco Bell (20 May 2025).
-
-
-
+Taken together, the cash deposits, related-party payroll, pool-remodel check, equipment wires, and routine transfers to known merchants reflect ordinary seasonal revenue and legitimate business expenditures for a cash-intensive outdoor-remodeling enterprise and do not raise reasonable suspicion of money laundering or structuring.
