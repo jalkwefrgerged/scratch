@@ -19,7 +19,7 @@ Open source research reveals that Anderson Veloso Moreira controls two Florida e
 Cash activity totals $28,100 across five single-lump deposits. There is only a sinlge instance of sub-48 hour deposits which aggregate to above the reproting threshold: the $6,300 on 17-Mar and $6,000 on 19-Mar. No similar sub-48hr clusters are present during the review period. Mid-March marks peak outdoor-remodeling season in Florida, when multiple projects close and clients can potentially pay on site in the form of cash. Overall, there is not a clear pattern indicating Moreira is intentionally structuring deposits to avoid regulatory filings. 
 
 
-The wires of $20,000 and $10,230, sent three days apart, were directed to Rezzy Motorsports, an established domestic powersports dealer (). A two-part payment schedule fits purchase of a utility/ATV vehicle useful for outdoor remodeling work. The wires were not sent to a suspicosu counterparty or high risk country.
+The wires of $20,000 and $10,230 were directed to Rezzy Motorsports, an established domestic powersports dealer (). This is not suspiscious as the purchase of a utility/ATV vehicle could be useful for outdoor remodeling work and the company is an estbalished entity. The wires were not sent to a high risk country.
 
 
 A sampling on inflows and outflows further supports a picture of regular business operations and non-suspicous activity,
