@@ -1,29 +1,45 @@
 Overview of Alerts:
-Between March and April 2025, multiple alerts were generated for ATM cash deposits and potential cash structuring involving customer Beatriz R. Razon. Upon thorough review, these transactions are consistent with expected financial activity related to customer occupations and do not demonstrate a broader pattern indicative of intentional structuring.
+From December 2024 through May 2025, multiple alerts were triggered for unusual cash deposit activities involving personal customer Jose Martinez and business customer J&M Legacy Construction LLC. These alerts included large cash deposits, significant ATM deposits, and explicit cash structuring.
 
-Transactions Initially Alerted:
+Types of Alerts Triggered:
 
-Structured Cash Deposits:
+- Large cash deposits by Jose Martinez exceeding historical weekly averages
+- Large ATM cash deposits by J&M Legacy Construction LLC
+- Structured cash deposits indicative of potential efforts to circumvent regulatory thresholds
 
-  - March 18, 2025: $7,500
-  - March 18, 2025: $2,200
-  - March 18, 2025: $320
-  - March 19, 2025: $200
-  - March 19, 2025: $120
+Detailed Alerting Activities:
 
-Large ATM Cash Deposits:
+Structured Cash Deposits – Business:
 
-  - March 1, 2025: $4,095
-  - March 17, 2025: $7,500
-  - March 17, 2025: $2,200
-  - March 18, 2025: $320
-  - April 5, 2025: $3,450
+- February 10, 2025: $10,000
+- February 10, 2025: $930
+- February 10, 2025: $100
+
+Structured Cash Deposits – Personal:
+
+- March 17, 2025: $5,500
+- March 19, 2025: $7,180
+
+Large Cash Deposits – Personal:
+
+- December 23, 2024: $5,500
+- December 23, 2024: $19,327
+- March 10, 2025: $13,446
+- March 25, 2025: $13,000
+
+ATM Cash Deposits – Business (Sampling):
+
+- January 25, 2025: $3,500
+- January 31, 2025: $8,500
+- March 3, 2025: $7,000
 
 Mitigation Summary:
-An extensive review revealed no evidence of additional sub-48-hour transactions or any broader repetitive pattern of structuring. The transactions on March 18 and 19, 2025, although initially flagged, do not form part of a consistent or repeated strategy designed to evade regulatory reporting requirements.
+Upon further review, multiple cash deposits clearly exceed the regulatory reporting threshold, demonstrating a clear willingness to transact openly without attempts to evade reporting requirements. Notable examples include a business deposit of $15,000 on June 16, 2025, and personal deposits of $13,000 on March 25, 2025, $13,446 on March 10, 2025, and $19,327 on December 23, 2024. This frequent openness in handling large transactions provides strong evidence against intentional structuring behaviors.
 
-Further, the large ATM cash deposits observed align with the documented employment records of the parties involved. Internal records show Beatriz Razon employed as a laborer at PizzaPie. Jose Parra’s stated occupation is taxi driver, with ACAPULCOS listed as his employer. Open-source research confirms that ACAPULCOS is a restaurant located in Enfield, Connecticut, operated by Cerritos Enfield LLC. Specifically, property tax listings from the Enfield, Connecticut government confirm that Cerritos Enfield LLC operates ACAPULCOS Mexican restaurants. Additionally, the company's website confirms the existence of an ACAPULCOS restaurant located at 61 Paloma Drive, Enfield, Connecticut 06082. Both occupations typically involve cash transactions, rendering the observed cash deposit amounts consistent with legitimate occupational cash flows.
+Additionally, open-source research has thoroughly confirmed the legitimate existence and active operational status of J&M Legacy Construction LLC. Georgia Secretary of State business filings explicitly list Jose Martinez as an organizer, and the documented address matches internal account records. J&M Legacy Construction LLC operates in the specialty trade contractors sector—an industry traditionally characterized by substantial cash payments and regular cash transactions. The observed deposit volumes and transaction frequency align with normal industry practices.
 
-A sampling of inflows and outflows further supports legitimate financial activity. Inflows include regular payroll checks received by Jose Parra from Cerritos Enfield LLC, such as $219 on May 27, 2025, and $161 on April 6, 2025, and consistent cash deposits such as $2,320 on January 13, 2025, and $2,500 on February 3, 2025. Outflows primarily involve routine debit card expenditures for typical discretionary items, including a purchase at Costco for $605 on February 6, 2025, and ACH payments to settle credit card accounts, such as a payment to American Express for $103 on May 21, 2025.
+A sampling of inflows and outflows from the business account further solidifies the legitimacy of the account activities. Inflows include clearly labeled payments associated with specific construction services, such as checks for $8,500 for "sliding labor" (March 14, 2025), $1,850 for "rofin work" (December 25, 2024), and a $1,800 P2P transaction labeled "flooring" (May 16, 2024). Outflows include business-specific expenses, such as payments to subcontractors and for construction materials, including an $8,000 check to LAAConstructionPro LLC (February 24, 2025), an $800 check marked "Marietta Roof" (March 24, 2025), and a lumber purchase via debit card for $147 (May 15, 2025).
 
-Based on these considerations, the transactions in question do not represent suspicious activity warranting additional investigation or reporting.
+Similarly, the personal account of Jose Martinez reflects legitimate income sources and typical personal expenditures. Notable inflows include a $1,000 P2P transfer from ALS Renovations LLC marked "Framing," and a substantial $23,600 check from Willow Framing (February 24, 2025). Outflows reflect routine personal expenditures, exemplified by a debit transaction at Hobby Lobb for $24 (June 18, 2025), and regular ACH payments such as a $120 payment to Best Buy (June 16, 2025).
+
+Collectively, the verified legitimacy of business operations, the clarity and consistency of documented financial transactions, and the presence of multiple transactions explicitly exceeding reporting thresholds significantly mitigate concerns of intentional structuring or suspicious financial activities.
