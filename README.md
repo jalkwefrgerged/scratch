@@ -1,30 +1,18 @@
-The following alerts were triggered by account activity:
-- Cash-and-wire velocity alert — cash deposits greater than $25,000 followed by comparable wires inside 30 days.
-- Cash structuring proximity alert — several cash deposits less $10,000 posted within consecutive days that together exceed $10,000.
+**Overview of Alerts:**
+During March 2025, multiple alerts were generated for suspicious cash transactions involving large withdrawals and deposits consistent with deliberate structuring intended to circumvent currency transaction reporting requirements.
 
+**Transactions Causing Alerts:**
 
-The specific transactions causing those alerts were:
-- 11-Mar-2025 — $20,000 outgoing wire to Rezzy Motorsports
-- 14-Mar-2025 — $10,230 outgoing wire to Rezzy Motorsports
-- 17-Mar-2025 — $6,300 cash deposit at financial center in Jacksonville, FT
-- 19-Mar-2025 — $6,000 cash deposit at financial center in Jacksonville, FT
-- 24-Mar-2025 — $6,000 cash deposit at financial center in Jacksonville, FT
-- 28-Mar-2025 — $2,800 cash deposit at financial center in Jacksonville, FT
-- 07-Apr-2025 — $7,000 cash deposit at financial center in Jacksonville, FT
+* **March 18, 2025:** Cash withdrawal of $10,000
+* **March 19, 2025:** Cash withdrawal of $7,000
+* **March 5, 2025:** Cash deposit of $10,000
+* **March 10, 2025:** Cash deposit of $10,000
 
+**Narrative Summary:**
+The alerts initially triggered due to significant cash withdrawals on March 18 and March 19, 2025. These two withdrawals, $10,000 on March 18 and $7,000 on March 19, occurred within a sub-48-hour period and collectively totaled $17,000—well exceeding the $10,000 regulatory threshold requiring Currency Transaction Reports. Structuring withdrawals across consecutive days to stay below reporting thresholds while moving substantial amounts of cash is a recognized tactic deliberately employed to evade mandatory reporting obligations.
 
-Open source research reveals that Anderson Veloso Moreira controls two Florida entities at 12114 Irwin Manor Dr, Jacksonville: Pro Outdoor Solutions Corp (google query reveals hit for company website with same address as Moreira and indicates that services provided include outdoor remodeling per ) and Moreira Professional Services Corp (open source research could not confirm that exact nature of this business but was able to confrim filing with Flordia government per ). Payroll checks from the latter are routinely deposited, reflecting owner compensation.
+Upon further analysis, the pattern indicative of structuring is strongly supported by earlier cash deposit activity. Specifically, cash deposits were made on March 5 and March 10, each exactly totaling $10,000—precisely the amount at which Currency Transaction Reports must be filed. Conducting multiple deposits at exactly the $10,000 threshold within a short time frame significantly raises suspicion, as legitimate financial activity rarely aligns repeatedly and precisely with regulatory thresholds.
 
+Additionally, detailed review revealed both $10,000 deposits were executed during daytime hours exclusively at ATMs (1055 Calimesa Blvd., Calimesa, CA 92320), potentially indicating a deliberate attempt by the subject to avoid face-to-face interactions with bank personnel, further minimizing the risk of scrutiny or inquiry. Specifically, the March 5 deposit was conducted through three simultaneous transactions at exactly 3:07 PM, while the March 10 deposit was made through two simultaneous transactions at exactly 2:16 PM. These simultaneous deposits likely reflect ATM-imposed currency limitations; nevertheless, the precise aggregate amounts strongly indicate intentional structuring.
 
-Cash activity totals $28,100 across five single-lump deposits. There is only a sinlge instance of sub-48 hour deposits which aggregate to above the reproting threshold: the $6,300 on 17-Mar and $6,000 on 19-Mar. No similar sub-48hr clusters are present during the review period. Mid-March marks peak outdoor-remodeling season in Florida, when multiple projects close and clients can potentially pay on site in the form of cash. Overall, there is not a clear pattern indicating Moreira is intentionally structuring deposits to avoid regulatory filings. 
-
-
-The wires of $20,000 and $10,230 were directed to Rezzy Motorsports, an established domestic powersports dealer (). This is not suspiscious as the purchase of a utility/ATV vehicle could be useful for outdoor remodeling work and the company is an estbalished entity. The wires were not sent to a high risk country.
-
-
-A sampling on inflows and outflows further supports a picture of regular business operations and non-suspicous activity,
-- Inflows: 08-Apr-2025 — $6,500 check labeled “pool paid in full,” evidencing pool-remodel revenue; regular payroll checks from Moreira Professional Services Corp, e.g., $1,276 deposited 11-Mar-2025.
-- Outflows: teller transfers to established domestic counterparties such Top Cars Auto Group. As a client of Bank of America customer, Top cars Auto Group is listed as an automotive dealer and open source research reveals an active businesss regression with the state of Florida (). As an established car sales entity, this counterparty does not pose high-risk characteristics. Then there are reoccuring discretionary items such as payment to LA Fitness, e.g., $64 on 4/6/2025.
-
-
-Taken together, the cash deposits, related-party payroll, pool-remodel check, equipment wires, and routine transfers to known merchants reflect ordinary seasonal revenue and legitimate business expenditures for a cash-intensive outdoor-remodeling enterprise and do not raise reasonable suspicion of money laundering or structuring.
+Further reinforcing suspicions of structuring is the absence of any legitimate financial justification for these substantial cash transactions. Open-source research and internal employment documentation identify one subject as a laborer at Splash Kingdom and another as a homemaker—occupations that typically do not involve significant or frequent cash-based financial activity. The lack of identifiable cash-intensive business activities or credible alternative sources of funds further supports the conclusion that these transactions were deliberately structured to evade regulatory reporting requirements.
