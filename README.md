@@ -1,50 +1,13 @@
-Account activity lead to the following alert types:
 
-- Large cash deposits
-- Cash structuring
 
-Here were the specific transactions that caused those alerts:
-
-- March 17, 2025: $10,000 (Cash Structuring) via ATM located at 115 W Foothill Blvd Glendora, CA 91741
-- March 19, 2025: $9,900 (Cash Structuring) via ATM located at 115 W Foothill Blvd Glendora, CA 91741
-- March 31, 2025: $4,900 (Large cash deposits) via ATM located at 115 W Foothill Blvd Glendora, CA 91741
-- April 2, 2025: $1,480 (Large cash deposits) via ATM located at 115 W Foothill Blvd Glendora, CA 91741
-- April 14, 2025: $4,000 (Large cash deposits) via ATM located at 115 W Foothill Blvd Glendora, CA 91741
-- April 15, 2025: $17,200 (Large cash deposits) via ATM located at 115 W Foothill Blvd Glendora, CA 91741
-- April 21, 2025: $5,000 (Large cash deposits) via ATM located at 115 W Foothill Blvd Glendora, CA 91741
-- April 25, 2025: $10,000 (Large cash deposits) via ATM located at 115 W Foothill Blvd Glendora, CA 91741
-- May 19, 2025: $10,000 (Large cash deposits) via ATM located at 115 W Foothill Blvd Glendora, CA 91741
-- May 22, 2025: $9,900 (Large cash deposits) via ATM located at 115 W Foothill Blvd Glendora, CA 91741
-- May 27, 2025: $5,000 (Large cash deposits) via ATM located at 115 W Foothill Blvd Glendora, CA 91741
-
-A previous investigation covered the current review period up until 4/7/2025. However, there were structuring alerts a part of this investigation which were not a part of this previous investigation. Upon further review, a pattern of structuring was discovered within the normal review period of 120 days prior to case open date. So, this investigation will be done over the normal review period and won't be shortened. 
-
-Here are transactions showing near-threshold cash deposits
-
-- 15 Apr 2025: cash deposit of $7,600 via ATM located at 115 W Foothill Blvd Glendora, CA 91741
-- 15 Apr 2025: cash deposit of $7,300 via ATM located at 115 W Foothill Blvd Glendora, CA 91741
-- 15 Apr 2025: cash deposit of $2,300 via ATM located at 115 W Foothill Blvd Glendora, CA 91741
-- 22 May 2025: cash deposit of $7,500 via ATM located at 115 W Foothill Blvd Glendora, CA 91741
-- 22 May 2025: cash deposit of $2,400 via ATM located at 115 W Foothill Blvd Glendora, CA 91741
-- 19 May 2025: cash deposit of $7,500 via ATM located at 115 W Foothill Blvd Glendora, CA 91741
-- 19 May 2025: cash deposit of $2,500 via ATM located at 115 W Foothill Blvd Glendora, CA 91741
-- 01 May 2025: cash deposit of $9,800 via finanical center located at 1440 E Huntington Dr Durate, CA 91010
-- 25 Apr 2025: cash deposit of $7,500 via ATM located at 115 W Foothill Blvd Glendora, CA 91741
-- 25 Apr 2025: cash deposit of $2,500 via ATM located at 115 W Foothill Blvd Glendora, CA 91741
-- 26 Mar 2025: cash deposit of $7,500 via ATM located at 115 W Foothill Blvd Glendora, CA 91741
-- 26 Mar 2025: cash deposit of $2,000 via ATM located at 115 W Foothill Blvd Glendora, CA 91741
-- 19 Mar 2025: cash deposit of $7,400 via ATM located at 115 W Foothill Blvd Glendora, CA 91741
-- 19 Mar 2025: cash deposit of $2,500 via ATM located at 115 W Foothill Blvd Glendora, CA 91741
-- 17 Mar 2025: cash deposit of $7,400 via ATM located at 115 W Foothill Blvd Glendora, CA 91741
-- 17 Mar 2025: cash deposit of $2,600 via ATM located at 115 W Foothill Blvd Glendora, CA 91741
-- 12 Mar 2025: cash deposit of $7,500 via ATM located at 115 W Foothill Blvd Glendora, CA 91741
-- 12 Mar 2025: cash deposit of $2,500 via ATM located at 115 W Foothill Blvd Glendora, CA 91741
-- 07 Mar 2025: cash deposit of $10,000 via ATM located at 115 W Foothill Blvd Glendora, CA 91741
-- 04 Feb 2025: cash deposit of $7,700 via ATM located at 2901 E Eastlnad Center West Covina, CA 91791
-- 04 Feb 2025: cash deposit of $2,300 via ATM located at 2901 E Eastlnad Center West Covina, CA 91791
+- February 22, 2025: $5,903
+- February 24, 2025: $2,980
+- February 26, 2025: $1,000
+- March 29, 2025: $6,010
+- April 2, 2025: $5,307
+- April 4, 2025: $5,005
+- May 5, 2025: $5,055
 
 
 
-The cash deposits listed above reflect a clear and consistent pattern of structuring intended to evade regulatory reporting requirements. Specifically, on nine separate days, the subject deposited amounts totaling between $9,500 and $10,000, and on four additional days, exactly $10,000—demonstrating repeated intent to remain just below or at the Currency Transaction Report (CTR). This near-threshold deposit pattern persisted over approximately 14 weeks, highlighting ongoing intentional activity rather than isolated incidents. Taken together, this behavior strongly indicates deliberate structuring to evade mandatory CTR reporting requirements. Further supporting suspicion, internal records identify Javier Ramos as an executive at Right Buy Auto Sales, while Paloma Gonzalez has a stated occupation as a homemaker, listing Chase as her employer. Neither occupation reasonably explains or aligns with the substantial and frequent cash deposit activity observed here, reinforcing concerns about the legitimacy of these transactions and underscoring the likelihood that structuring has occurred.
-
-
+The observed pattern of $72,617 in cash deposits over four months cannot plausibly align with the operational realities of NMAH Trucking LLC, which maintains inactive FMCSA authority and operates only a single truck. Legitimate trucking revenues are characteristically settled electronically via ACH or checks, making repeated substantial cash deposits highly irregular within the industry. Moreover, even under ideal conditions, the cash inflows average approximately $18,000 per month—more than three times the typical net monthly earnings for an owner-operator and close to the maximum possible gross revenue, an unrealistic scenario given the company's inactive regulatory status and absence of documented freight activity. Coupled with the lack of standard operational signals, such as inspections, crash reports, tax filings, or customer reviews, these funds lack a credible business justification. Consequently, the origin of these cash deposits remains unaccounted for, rendering the activity suspicious and meriting further AML scrutiny and investigation.
