@@ -1,45 +1,26 @@
-Comprehensive Narrative of Alert Review and Mitigation
+An investigation has been completed, and a Suspicious Activity Report (SAR) will be filed for suspected structuring.
 
-Overview of Alerts:
+Alert-triggering cash deposits
 
-From December 2024 through March 2025, multiple alerts were triggered for unusual cash activities involving personal customer Han Seob Kim and business customer EZ Home Public Adjuster, Corp. (NAICS 524210 – Insurance-related services). The alerts comprised:
+• 3 March 2025: $9,000 cash deposit at the Bank of America financial center, 30 South Orleans Road, Orleans, Massachusetts.
+• 7 March 2025: $9,000 cash deposit at the same Orleans, Massachusetts location.
+• 17 March 2025: $9,100 cash deposit at the Bank of America financial center, 9680 Grant Street, Thornton, Colorado.
+• 19 March 2025: $9,000 cash deposit at the same Thornton, Colorado location.
 
-- Large ATM cash deposit – Personal (Dec 2024)
-- Large cash deposits – Personal (Mar 2025)
-- Large ATM cash deposits – Business (Mar 2025)
-- Structured cash deposits – Business (Mar 2025)
+Why the deposits are suspicious and indicative of structuring
 
-Detailed Alerting Transactions:
+The cash deposits involved were consistently structured in round-dollar amounts, deliberately set just below the $10,000 Currency Transaction Report (CTR) threshold. Each deposit ranged narrowly between $9,000 and $9,100—a recognized tactic employed to evade regulatory reporting requirements. Reinforcing this suspicion, deposits appeared in pairs at each branch rather than as single larger transactions, indicating intentional splitting of larger cash sums into multiple sub-threshold amounts.
 
-Structured Cash Deposits – Business:
+Further compounding the suspicion, deposit activity exhibited rapid geographic shifts that lack any documented legitimate business rationale. Within approximately ten days, the cash deposits transitioned from a branch near the decedent’s known residence in Massachusetts to a branch nearly 2,000 miles away in Thornton, Colorado. Open-source research identified Robert “Rob” Sieban as residing near this Thornton branch. Sieban is an executive associated with United Flea Markets LLC, a cash-intensive business. However, given Sieban’s executive role, such substantial, structured personal cash inflows appear unusual and inconsistent with his known profile.
 
-- March 18, 2025: $9,000
-- March 19, 2025: $5,000
+Additionally, two further cash deposits made at the Thornton, Colorado branch—$8,000 on 12 March 2025 and $9,265 on 26 March 2025—though not initially triggering automated alerts, reflect the same structured, sub-threshold deposit pattern. Their existence confirms the deliberate ongoing nature of splitting cash deposits.
 
-Large Cash Deposits – Personal:
+Finally, the method and timing of these deposits do not align with typical estate-settlement practices. Cash associated with legitimate estate proceedings is typically deposited at once near the decedent’s primary location or shortly thereafter. In this instance, however, deposits were inexplicably spread over three weeks and two distant states. Moreover, tax-free gift disbursements to beneficiaries, such as the $8,000 check to Tyler Sullivan Prado dated 27 January 2025, were made before the structured cash deposits, demonstrating that these cash deposits were not necessary to fund beneficiary payments.
 
-- March 18, 2025: $9,000
-- March 21, 2025: $8,500
+Collectively, the deliberate structuring of near-threshold cash amounts, repeated splitting, unexplained geographic shifts, Sieban’s unusual profile for cash transactions, additional non-alerting structured deposits, and inconsistency with normal estate practices strongly indicate deliberate structuring activity intended to evade regulatory reporting. Thus, a SAR submission is warranted.
 
-ATM Cash Deposits – Personal:
+Sampling of inflows and outflows
 
-- December 14, 2024: $4,790
-  
+Inflows into the account consisted primarily of structured cash deposits such as the $9,000 credit on 3 March 2025, alongside non-cash credits including a brokerage transfer of $16,000 on 14 January 2025.
 
-ATM Cash Deposits – Business:
-
-- March 15, 2025: $5,000
-- March 19, 2025: $7,500
-  
-
-Shortly after the cash deposits from March 18–21, 2025, two checks were issued on March 24, 2025, payable to CARMAX. One check, amounting to $20,000, was drawn from the business account, while the other, totaling $18,807, was issued from the personal account. Both checks included memos referencing "CARMAX TITAN TRADEIN," indicating an automotive-related transaction consistent with vehicle purchase or trade-in. Cash deposits into separate accounts align with standard financial management practices, ensuring clarity and accuracy in reflecting distinct sources of income. Utilizing funds from different accounts for a single vehicle transaction does not inherently raise suspicion, as it demonstrates intentional recordkeeping and separation of business and personal finances.
-
-The structured cash deposits on March 18 and 19, 2025, constitute the sole instance within the review period where cumulative deposits surpassed the $10,000 threshold in under 48 hours. An exhaustive review identified no other similar activities or attempts indicative of intentional evasion of reporting requirements. The cash and ATM deposits align with common and expected practices within the roofing and public-adjuster industry, where handling sizable cash payments for insurance deductibles or interim expenses from homeowners is routine. Open-source research confirms that EZ Home Public Adjuster Corp. operates legitimately within the roofing and public-adjuster sector, a business inherently characterized by periodic large cash inflows from homeowners to manage insurance deductibles or interim claim-related expenses.&#x20;
-
-To further substantiate the legitimate nature of these transactions, a sampling of business account held by EZ Home Public Adjuster, Corp. activities revealed predominantly check-based credits, such as a $2,000 deposit from HomePro Restoration Inc. on June 2, 2025. Routine business expenses, including a $500 payment to the Illinois Department of Revenue on March 14, 2025, further illustrate ordinary financial operations typical for a business within the roofing and public-adjuster industry.
-
-A sampling of the personal account held by Kim Jae Young also shows legitimate financial activities. Predominantly peer-to-peer (P2P) inflows, such as a $4,500 payment from Judy on June 9, 2025, noted as reimbursement for hotel rooms and travel, reflect routine personal financial behavior. Typical household expenses such as the ACH payment of $1,080 to Chase on April 15, 2025, to clear a credit card balance further support the non-suspicious character of these transactions.
-
-Similarly, the sampled financial activities for the account of Han Seob Kim reflect standard household and personal financial practices. Inflows primarily consist of routine checks from EZ Home Public Adjuster Corp., including a $2,000 payment on April 18, 2025, alongside P2P payments such as a $200 transaction from Excel Public Adjusters, Inc. on May 18, 2025. Outflows are typical household and living expenses, exemplified by a regular car payment of $1,012 on December 24, 2024, and standard ACH payments for utilities, such as a $77 payment to ComEd on June 6, 2025.
-
-Considering the single occurrence of the structured transaction, absence of systematic evasion attempts, and clear, legitimate financial management practices demonstrated by the sampled transactions, the reviewed activities are not indicative of suspicious financial conduct. 
+Outflows included estate-related payments and other expenditures. Notable examples are an $8,000 check dated 27 January 2025 payable to beneficiary Tyler Sullivan Prado (memo: "Tax-free gift"), and a bill-pay debit transaction of $8,723 processed on 3 February 2025. These examples demonstrate legitimate disbursements occurred prior to or independently of the structured cash deposits, further supporting the conclusion that the cash deposits were structured without any connection to documented legitimate account activity.
