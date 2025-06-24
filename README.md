@@ -5,43 +5,43 @@ Account activity lead to the following alert types:
 
 Here were the specific transactions that caused those alerts:
 
-- March 17, 2025: $10,000 (Cash Structuring)
-- March 19, 2025: $9,900 (Cash Structuring)
-- March 31, 2025: $4,900 (Large cash deposits)
-- April 2, 2025: $1,480 (Large cash deposits)
-- April 14, 2025: $4,000 (Large cash deposits)
-- April 15, 2025: $17,200 (Large cash deposits)
-- April 21, 2025: $5,000 (Large cash deposits)
-- April 25, 2025: $10,000 (Large cash deposits)
-- May 19, 2025: $10,000 (Large cash deposits)
-- May 22, 2025: $9,900 (Large cash deposits)
-- May 27, 2025: $5,000 (Large cash deposits)
+- March 17, 2025: $10,000 (Cash Structuring) via ATM located at 115 W Foothill Blvd Glendora, CA 91741
+- March 19, 2025: $9,900 (Cash Structuring) via ATM located at 115 W Foothill Blvd Glendora, CA 91741
+- March 31, 2025: $4,900 (Large cash deposits) via ATM located at 115 W Foothill Blvd Glendora, CA 91741
+- April 2, 2025: $1,480 (Large cash deposits) via ATM located at 115 W Foothill Blvd Glendora, CA 91741
+- April 14, 2025: $4,000 (Large cash deposits) via ATM located at 115 W Foothill Blvd Glendora, CA 91741
+- April 15, 2025: $17,200 (Large cash deposits) via ATM located at 115 W Foothill Blvd Glendora, CA 91741
+- April 21, 2025: $5,000 (Large cash deposits) via ATM located at 115 W Foothill Blvd Glendora, CA 91741
+- April 25, 2025: $10,000 (Large cash deposits) via ATM located at 115 W Foothill Blvd Glendora, CA 91741
+- May 19, 2025: $10,000 (Large cash deposits) via ATM located at 115 W Foothill Blvd Glendora, CA 91741
+- May 22, 2025: $9,900 (Large cash deposits) via ATM located at 115 W Foothill Blvd Glendora, CA 91741
+- May 27, 2025: $5,000 (Large cash deposits) via ATM located at 115 W Foothill Blvd Glendora, CA 91741
 
 
 
 Transactions showing near-threshold cash deposits
 
-- 15 Apr 2025: cash deposit of $7,600
-- 15 Apr 2025: cash deposit of $7,300
-- 15 Apr 2025: cash deposit of $2,300
-- 22 May 2025: cash deposit of $7,500
-- 22 May 2025: cash deposit of $2,400
-- 19 May 2025: cash deposit of $7,500
-- 19 May 2025: cash deposit of $2,500
-- 01 May 2025: cash deposit of $9,800
-- 25 Apr 2025: cash deposit of $7,500
-- 25 Apr 2025: cash deposit of $2,500
-- 26 Mar 2025: cash deposit of $7,500
-- 26 Mar 2025: cash deposit of $2,000
-- 19 Mar 2025: cash deposit of $7,400
-- 19 Mar 2025: cash deposit of $2,500
-- 17 Mar 2025: cash deposit of $7,400
-- 17 Mar 2025: cash deposit of $2,600
-- 12 Mar 2025: cash deposit of $7,500
-- 12 Mar 2025: cash deposit of $2,500
-- 07 Mar 2025: cash deposit of $10,000
-- 04 Feb 2025: cash deposit of $7,700
-- 04 Feb 2025: cash deposit of $2,300
+- 15 Apr 2025: cash deposit of $7,600 via ATM located at 115 W Foothill Blvd Glendora, CA 91741
+- 15 Apr 2025: cash deposit of $7,300 via ATM located at 115 W Foothill Blvd Glendora, CA 91741
+- 15 Apr 2025: cash deposit of $2,300 via ATM located at 115 W Foothill Blvd Glendora, CA 91741
+- 22 May 2025: cash deposit of $7,500 via ATM located at 115 W Foothill Blvd Glendora, CA 91741
+- 22 May 2025: cash deposit of $2,400 via ATM located at 115 W Foothill Blvd Glendora, CA 91741
+- 19 May 2025: cash deposit of $7,500 via ATM located at 115 W Foothill Blvd Glendora, CA 91741
+- 19 May 2025: cash deposit of $2,500 via ATM located at 115 W Foothill Blvd Glendora, CA 91741
+- 01 May 2025: cash deposit of $9,800 via finanical center located at 1440 E Huntington Dr Durate, CA 91010
+- 25 Apr 2025: cash deposit of $7,500 via ATM located at 115 W Foothill Blvd Glendora, CA 91741
+- 25 Apr 2025: cash deposit of $2,500 via ATM located at 115 W Foothill Blvd Glendora, CA 91741
+- 26 Mar 2025: cash deposit of $7,500 via ATM located at 115 W Foothill Blvd Glendora, CA 91741
+- 26 Mar 2025: cash deposit of $2,000 via ATM located at 115 W Foothill Blvd Glendora, CA 91741
+- 19 Mar 2025: cash deposit of $7,400 via ATM located at 115 W Foothill Blvd Glendora, CA 91741
+- 19 Mar 2025: cash deposit of $2,500 via ATM located at 115 W Foothill Blvd Glendora, CA 91741
+- 17 Mar 2025: cash deposit of $7,400 via ATM located at 115 W Foothill Blvd Glendora, CA 91741
+- 17 Mar 2025: cash deposit of $2,600 via ATM located at 115 W Foothill Blvd Glendora, CA 91741
+- 12 Mar 2025: cash deposit of $7,500 via ATM located at 115 W Foothill Blvd Glendora, CA 91741
+- 12 Mar 2025: cash deposit of $2,500 via ATM located at 115 W Foothill Blvd Glendora, CA 91741
+- 07 Mar 2025: cash deposit of $10,000 via ATM located at 115 W Foothill Blvd Glendora, CA 91741
+- 04 Feb 2025: cash deposit of $7,700 via ATM located at 2901 E Eastlnad Center West Covina, CA 91791
+- 04 Feb 2025: cash deposit of $2,300 via ATM located at 2901 E Eastlnad Center West Covina, CA 91791
 
 
 
