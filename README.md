@@ -1,45 +1,30 @@
-Overview of Alerts:
-From December 2024 through May 2025, multiple alerts were triggered for unusual cash deposit activities involving personal customer Jose Martinez and business customer J&M Legacy Construction LLC. These alerts included large cash deposits, significant ATM deposits, and explicit cash structuring.
+Overview of the cash alerts
 
-Types of Alerts Triggered:
+From 1 March to 9 May 2025, three cash-related alerts were generated on the personal account of Igor Golubovich:
 
-- Large cash deposits by Jose Martinez exceeding historical weekly averages
-- Large ATM cash deposits by J&M Legacy Construction LLC
-- Structured cash deposits indicative of potential efforts to circumvent regulatory thresholds
+- Branch deposits that collectively pushed the total cash amount for March above ten thousand dollars:
 
-Detailed Alerting Activities:
+  - 17 Mar 2025 — $3,500 
+  - 17 Mar 2025 — $4,000 
+  - 19 Mar 2025 — $5,000 
+  - 31 Mar 2025 — $500 
 
-Structured Cash Deposits – Business:
+- Branch deposits within a three-day span (17–19 March) suggesting potential structuring:
 
-- February 10, 2025: $10,000
-- February 10, 2025: $930
-- February 10, 2025: $100
+  - 17 Mar 2025 — $3,500 
+  - 17 Mar 2025 — $4,000 
+  - 19 Mar 2025 — $5,000 
 
-Structured Cash Deposits – Personal:
+- Three ATM cash deposits, each exceeding three thousand dollars:
 
-- March 17, 2025: $5,500
-- March 19, 2025: $7,180
+  - 30 Apr 2025 — $3,500 
+  - 07 May 2025 at 22:09 — $3,500 
+  - 09 May 2025 at 17:27 — $4,300 
 
-Large Cash Deposits – Personal:
+Upon review, no instances occurred in which cash deposits made within any rolling forty-eight-hour window totaled to or exceeded the regulatory reporting threshold of $10,000. Without such occurrences, the transactions do not reflect a clear pattern of intentionally splitting deposits to evade regulatory reporting. The timing and sizes of these deposits instead align with typical business receipts rather than deliberate structuring.
 
-- December 23, 2024: $5,500
-- December 23, 2024: $19,327
-- March 10, 2025: $13,446
-- March 25, 2025: $13,000
+Open-source research and KYC documentation verify Mr. Golubovich as the owner of an electrical contracting company and as an executive of a restoration general contracting firm. Businesses of this type commonly collect cash for homeowner insurance deductibles, emergency repairs, and smaller on-site service fees. Transaction amounts ranging from $500 to $5,000 correspond directly with standard homeowner deductibles commonly associated with water or fire restoration jobs. Additionally, the ATM deposits, including after-hours transactions at 22:09 on 7 May and 17:27 on 9 May, represent after-hours deposit runs typical for contractors handling urgent, off-hours cash collections related to emergency homeowner repairs. The use of ATMs for these deposits is consistent with legitimate operational practices rather than avoidance of in-person interactions. Similarly, the branch deposits exceeded ten thousand dollars only in aggregate across multiple separate days in March, further demonstrating ordinary periodic business inflows.
 
-ATM Cash Deposits – Business (Sampling):
+Sampling of account inflows further supports the legitimacy of funds deposited into the account. Primary funding sources are wires from established entities such as Veristone Fund 1 LLC, including notable inflows of $22,670 and $19,220. Veristone Capital is a verified loan provider known to extend credit specifically for remodeling and construction services, aligning precisely with the customer’s stated business operations. Additional inflows include personal P2P transfers from family members, such as Galina Golubovich ($3,500 and $2,000 on 21 Jan 2025), consistent with typical family-related financial transactions. Similarly, account debits reinforce legitimate business use of the funds, such as a $396 business expense at Harbor Freight Tools on 20 Jan 2025 and recurring ACH payments toward remodeling-related financing provided by Veristone Capital, including the documented payment of $4,417 on 14 Jan 2025.
 
-- January 25, 2025: $3,500
-- January 31, 2025: $8,500
-- March 3, 2025: $7,000
-
-Mitigation Summary:
-Upon further review, multiple cash deposits clearly exceed the regulatory reporting threshold, demonstrating a clear willingness to transact openly without attempts to evade reporting requirements. Notable examples include a business deposit of $15,000 on June 16, 2025, and personal deposits of $13,000 on March 25, 2025, $13,446 on March 10, 2025, and $19,327 on December 23, 2024. This frequent openness in handling large transactions provides strong evidence against intentional structuring behaviors.
-
-Additionally, open-source research has thoroughly confirmed the legitimate existence and active operational status of J&M Legacy Construction LLC. Georgia Secretary of State business filings explicitly list Jose Martinez as an organizer, and the documented address matches internal account records. J&M Legacy Construction LLC operates in the specialty trade contractors sector—an industry traditionally characterized by substantial cash payments and regular cash transactions. The observed deposit volumes and transaction frequency align with normal industry practices.
-
-A sampling of inflows and outflows from the business account further solidifies the legitimacy of the account activities. Inflows include clearly labeled payments associated with specific construction services, such as checks for $8,500 for "sliding labor" (March 14, 2025), $1,850 for "rofin work" (December 25, 2024), and a $1,800 P2P transaction labeled "flooring" (May 16, 2024). Outflows include business-specific expenses, such as payments to subcontractors and for construction materials, including an $8,000 check to LAAConstructionPro LLC (February 24, 2025), an $800 check marked "Marietta Roof" (March 24, 2025), and a lumber purchase via debit card for $147 (May 15, 2025).
-
-Similarly, the personal account of Jose Martinez reflects legitimate income sources and typical personal expenditures. Notable inflows include a $1,000 P2P transfer from ALS Renovations LLC marked "Framing," and a substantial $23,600 check from Willow Framing (February 24, 2025). Outflows reflect routine personal expenditures, exemplified by a debit transaction at Hobby Lobb for $24 (June 18, 2025), and regular ACH payments such as a $120 payment to Best Buy (June 16, 2025).
-
-Collectively, the verified legitimacy of business operations, the clarity and consistency of documented financial transactions, and the presence of multiple transactions explicitly exceeding reporting thresholds significantly mitigate concerns of intentional structuring or suspicious financial activities.
+Overall, the documented inflows and outflows, confirmed business activity, verified funding sources, and typical industry practices collectively demonstrate legitimate transactions, providing no indication of suspicious structuring or attempts to avoid regulatory reporting. Therefore, a SAR filing is not warranted.
