@@ -17,9 +17,9 @@ Here were the specific transactions that caused those alerts:
 - May 22, 2025: $9,900 (Large cash deposits) via ATM located at 115 W Foothill Blvd Glendora, CA 91741
 - May 27, 2025: $5,000 (Large cash deposits) via ATM located at 115 W Foothill Blvd Glendora, CA 91741
 
+A previous investigation covered the current review period up until 4/7/2025. However, there were structuring alerts a part of this investigation which were not a part of this previous investigation. Upon further review, a pattern of structuring was discovered within the normal review period of 120 days prior to case open date. So, this investigation will be done over the normal review period and won't be shortened. 
 
-
-Transactions showing near-threshold cash deposits
+Here are transactions showing near-threshold cash deposits
 
 - 15 Apr 2025: cash deposit of $7,600 via ATM located at 115 W Foothill Blvd Glendora, CA 91741
 - 15 Apr 2025: cash deposit of $7,300 via ATM located at 115 W Foothill Blvd Glendora, CA 91741
