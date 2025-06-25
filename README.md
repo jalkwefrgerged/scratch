@@ -18,7 +18,7 @@ Recent monitoring flagged this account for two overarching alert types—Structu
 
 Public listings show that B&J Petroleum Sales LLC operates an ARCO / ampm gas station and convenience store at 6375 N Blackstone Ave, Fresno—a classic cash-intensive retail format. In such operations, everyday sales of fuel, snacks, lottery tickets, and other impulse items generate a high volume of low-value cash transactions, so frequent, sizeable bank deposits are an ordinary feature of the business type.
 
-A review of the customer’s cash-deposit history shows no evidence of a deliberate attempt to systmeically structure large deposits in order to avoid regualtory filings. Instead, their behavior consistently demonstrates a willingness to transact well above the $10,000 Currency Transaction Report (CTR) threshold, always in person and almost exclusively at the same branch—7837 North Blackstone Avenue, Fresno, CA 93720. Representative examples include:
+A review of the customer’s cash-deposit history shows no evidence of a deliberate attempt to systmeically structure large deposits in order to avoid regualtory filings. Instead, their behavior consistently demonstrates a willingness to transact well above the $10,000 Currency Transaction Report (CTR) threshold, almost always in person and at the same branch—7837 North Blackstone Avenue, Fresno, CA 93720. Representative examples include:
 
 - 06 / 12 / 2025 – $11,887 (deposit at financial center located at 7837 North Blackstone Avenue, Fresno, CA 93720)
 - 06 / 09 / 2025 – $12,084 (deposit at financial center located at 7837 North Blackstone Avenue, Fresno, CA 93720)
