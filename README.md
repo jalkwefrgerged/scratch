@@ -33,7 +33,4 @@ Beyond the previously discussed large cash deposits, the everyday inflows and ou
 
 Outbound activity echoes the same legitimate business pattern. An ACH debit of $34,718 on April 17 2025 was sent to Marathon Petrol; open-source checks confirm Marathon Petroleum is a wholesale fuel supplier, so the payment plausibly covers inventory purchases. Likewise, a $1,010 payroll check dated April 7 2025 shows routine employee compensation.
 
-In combination, these credits and debits illustrate a straightforward flow of funds: cash and small lottery ACH receipts enter the account from daily retail operations, while larger ACH debits and payroll checks leave to recognized vendors and staff. There is no sign of circular transfers, layering, or attempts to disguise funds—further mitigating any suspicion of illicit or structured activity.
-
-
-Taken together, the customer’s high-value, in-person, single-branch deposits strongly counter the allegation of structuring; their activity aligns with normal, transparent cash handling rather than an effort to conceal or fragment cash transactions.
+In combination, these credits and debits illustrate a straightforward flow of funds: cash and small lottery ACH receipts enter the account from daily retail operations, while larger ACH debits and payroll checks leave to recognized vendors and staff. There is no sign of circular transfers, layering, or attempts to disguise funds—further mitigating any suspicion of illicit or structured activity. Taken together, the customer’s high-value, in-person, single-branch deposits strongly counter the allegation of structuring; their activity aligns with normal, transparent cash handling rather than an effort to conceal or fragment cash transactions.
