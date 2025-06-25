@@ -1,29 +1,41 @@
-Acount activity triggered automateed alerts for large cash deposits and possible structuring. 
+Recent monitoring flagged this account for two overarching alert types—**Structured Cash** activity and **Large Cash Deposit** activity. Below are the individual transactions that triggered the alerts:
 
-Specifically, two individual cash deposits triggered alerts due to their relatively large size:
+* 01 / 03 / 2025 – \$6,800.00 (Structured Cash)
+* 01 / 02 / 2025 – \$3,698.00 (Structured Cash)
+* 04 / 17 / 2025 – \$9,890.00 (Structured Cash)
+* 04 / 18 / 2025 – \$8,515.00 (Structured Cash)
+* 04 / 10 / 2025 – \$5,701.00 (Structured Cash)
+* 04 / 11 / 2025 – \$6,933.00 (Structured Cash)
+* 04 / 01 / 2025 – \$1,878.50 (Large Cash Deposit)
+* 04 / 03 / 2025 – \$13,000.00 (Large Cash Deposit)
+* 04 / 03 / 2025 – \$30,033.00 (Large Cash Deposit)
+* 05 / 21 / 2025 – \$4,500.00 (Large Cash Deposit)
+* 05 / 23 / 2025 – \$8,556.00 (Large Cash Deposit)
+* 05 / 23 / 2025 – \$6,162.00 (Large Cash Deposit)
+* 06 / 06 / 2025 – \$6,000.00 (Large Cash Deposit)
+* 06 / 06 / 2025 – \$10,626.00 (Large Cash Deposit)
 
-* 30 January 2025: $5,800 cash deposit
-* 28 February 2025: $5,900 cash deposit
 
-Additionally, on 21 April 2025, four separate cash deposits made at the same ATM (1202 North Greenville Avenue, Allen, Texas 75002) within roughly six minutes triggered a potential structuring alert:
 
-* $5,000 cash deposit
-* $6,700 cash deposit
-* $7,500 cash deposit
-* $700 cash deposit
+A review of the customer’s cash-deposit history shows **no evidence of structuring**. Instead, their behavior consistently demonstrates a willingness to transact **well above** the \$10,000 Currency Transaction Report (CTR) threshold, always **in person** and almost exclusively at the same branch—**7837 North Blackstone Avenue, Fresno, CA 93720**. Representative examples include:
 
-These four deposits totaled $19,900.
+* 06 / 12 / 2025 – \$11,887 (financial-center deposit)
+* 06 / 09 / 2025 – \$12,084 (financial-center deposit)
+* 06 / 06 / 2025 – \$10,626 (financial-center deposit)
+* 05 / 28 / 2025 – \$37,713 (financial-center deposit)
+* 04 / 16 / 2025 – \$14,131 (financial-center deposit)
 
-Following a thorough review, these transactions are not part of any suspicious activity or deliberate attempts to avoid regulatory reporting. The April deposits, although collectively nearing $20,000, were made consecutively at a single ATM within minutes. The quick succession and identical terminal identification suggest the deposits were likely the result of the ATM’s per-transaction limits or the customer's inability to carray all the cash in one trip rather than any intent to conceal the total amount. Furthermore, no additional 48-hour periods within the historical review revealed similar groupings of multiple deposits under $10,000 that collectively approached the regulatory threshold, indicating that this event was a one-time occurrence.
 
-The earlier January and February deposits of $5,800 and $5,900 were the only sizable cash credits recorded within the previous twelve-month period. Analysis of the account’s inflow patterns demonstrated that cash deposits were infrequent and represented only a minor portion of overall account funding. Instead, routine direct deposits from payroll constituted the primary inflows. Examples include:
+Public listings show that B&J Petroleum Sales LLC operates an ARCO / ampm gas station and convenience store at 6375 N Blackstone Ave, Fresno—a classic cash-intensive retail format. In such forecourt-c-store operations, everyday sales of fuel, snacks, lottery tickets, and other impulse items generate a high volume of low-value cash transactions, so frequent, sizeable bank deposits are an ordinary feature of normal treasury practice rather than a red flag.
 
-* $2,269 direct-deposit payroll from Yum! Connect LLC on 23 May 2025
-* $1,003 direct-deposit payroll from Randstad on 12 June 2025
+These deposits illustrate several key mitigating factors:
 
-Outflows from the account further supported typical personal banking behavior. Notable examples included:
+1. **Amounts well above the CTR trigger.** The customer does not attempt to keep cash deposits under \$10,000; instead, they routinely exceed it in single, straightforward transactions.
 
-* $101 debit-card purchase at Hutchins BBQ on 24 March 2025 (routine dining)
-* $63 ACH payment to the City of McKinney on 1 April 2025 (utility payment)
+2. **Face-to-face teller interaction.** All listed deposits—and many others—were completed in person, showing no attempt to avoid branch scrutiny.
 
-The consistency of payroll deposits and common discretionary expenses indicate standard financial management practices. Given the non-recurring nature of the alert-triggering transactions and the typical profile of account inflows and outflows, these cash deposit activities are determined to be not suspicious.
+3. **Consistent single-branch usage.** Making large deposits at the same Fresno location negates any notion of “bank shopping” or dispersing funds across multiple branches or institutions.
+
+4. **No evidence of artificial fragmentation.** The pattern lacks any deliberate breaking of deposits into sub-threshold increments, the hallmark of structuring aimed at evading CTR filings.
+
+Taken together, the customer’s high-value, in-person, single-branch deposits strongly counter the allegation of structuring; their activity aligns with normal, transparent cash handling rather than an effort to conceal or fragment cash transactions.
