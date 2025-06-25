@@ -31,7 +31,7 @@ These deposits illustrate several key mitigating factors. Amounts are well above
 
 Beyond the previously discussed large cash deposits, the everyday inflows and outflows in this account reflect the cadence of an ordinary cash-intensive retail business. On May 6 2025, the customer received two modest ACH credits—$60 and $50—from California Lottery Scratchers, while mid-tier cash deposits of $14,000 on April 16 2025 and $3,702 on April 14 2025 represent typical store receipts being banked after a day’s sales.
 
-Outbound activity echoes the same legitimate business pattern. An ACH debit of $34,718 on April 17 2025 was sent to Marathon Petrol; open-source checks confirm Marathon Petroleum is a wholesale fuel supplier, so the payment plausibly covers inventory purchases rather than fund diversion. Likewise, a $1,010 payroll check dated April 7 2025 shows routine employee compensation.
+Outbound activity echoes the same legitimate business pattern. An ACH debit of $34,718 on April 17 2025 was sent to Marathon Petrol; open-source checks confirm Marathon Petroleum is a wholesale fuel supplier, so the payment plausibly covers inventory purchases. Likewise, a $1,010 payroll check dated April 7 2025 shows routine employee compensation.
 
 In combination, these credits and debits illustrate a straightforward flow of funds: cash and small lottery ACH receipts enter the account from daily retail operations, while larger ACH debits and payroll checks leave to recognized vendors and staff. There is no sign of circular transfers, layering, or attempts to disguise funds—further mitigating any suspicion of illicit or structured activity.
 
