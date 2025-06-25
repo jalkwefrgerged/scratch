@@ -8,7 +8,7 @@ Given our tight timelines and resource constraints, I also adopted innovative me
 
 When a contractor joined our team midway through the engagement, I quickly provided hands-on guidance, enabling seamless integration and maintaining our momentum. The ongoing need to align narratives across multiple authors required focused collaboration and clear, frequent communication—skills I strengthened significantly through this engagement.
 
-In parallel, my involvement in an OCC-driven KYC remediation provided valuable operational experience. Daily, I reviewed customer profiles to identify compliance gaps and developed a straightforward Excel reconciliation tool that improved accuracy and reduced manual effort. Clearly documenting each step enabled this approach to become repeatable and scalable for future remediation efforts.
+In parallel, my involvement in an OCC-driven KYC remediation provided valuable operational experience. I reviewed customer profiles to identify compliance gaps and developed a reconciliation document to streamline decision making. Clearly documenting each step enabled this approach to become repeatable and scalable.
 
 Facing these diverse challenges—tight deadlines, limited resources, stakeholder education, and narrative alignment—deepened my interest in how banks practically navigate complex regulations. The strategic insights from resolution planning, paired with hands-on KYC remediation, gave me complementary perspectives that drive my goal of gaining comprehensive regulatory expertise.
 
