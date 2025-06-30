@@ -1,1 +1,17 @@
-a
+Bank monitoring raised five categories of alerts on activity associated with Why Not Coffee Importers Corp. and its owner, Iliana Delgado Chegwin: large outgoing wires, abnormal online Next‑Day/Three‑Day ACH activity, a brief spike in Laser Draft usage, modest international ACH inflows, and a single large ATM cash deposit. The paragraphs that follow explain why each alert does not rise to a level of suspicion.
+
+Why Not Coffee Importers Corp., a privately held green‑coffee importer founded in 2021, routinely sources unroasted beans from long‑standing Colombian suppliers and sells them to specialty roasters nationwide. Extensive open‑source research—covering corporate records, customs data, sanctions lists and adverse‑media databases—found no negative press, sanctions matches or regulatory actions against the firm or its owner; this solid business profile mitigates the unusual‑looking activity highlighted by the automated alerts. 
+
+ATM cash deposit. On 19 May 2025 a single $5,500 ATM deposit funded routine operating expenses. The amount is ordinary for a business owner and, because no further cash deposits were recorded, the event is not considered egregious.
+
+Abnormal online ACH activity. Monitoring flagged rapid balance turnover, multiple foreign log‑ins and several round‑amount credits. Two illustrative receipts—the $10,889 ACH from ThatCoffee LLC on 30 April 2025 and the $4,883 Intuit credit on 13 February 2025 labelled “KoffeeKult”—reflect ordinary domestic sales that replenish working capital for upcoming imports, not layering or concealment.
+
+Laser Draft alert. The only draft that triggered concern was a $1,000 debit on 24 December 2024 payable to American Express. No other unusual drafts surfaced that month or after, confirming a one‑off payment and not suspicious.
+
+Large‑wire alert. From mid‑November 2024 through February 2025 the business sent roughly thirty wires—about $430 k–$490 k in total—to established Colombian exporters. A representative example is the $28,853 transfer to Exportadora de Café Isabel on 29 January 2025, which matches shipping documentation. All wire counterparties cleared sanctions and adverse‑media screening, and volumes align with inventory purchases.
+
+International ACH alert. Between December 2024 and March 2025 seven small credits (each no more than $1.9 k) were received from Colombian senders, including $350 on 31 December 2024 from Natalie Delgado and $153 on 19 February 2025 from Nancy Delgado. The surname match suggests family support while amounts remain modest, consistent with personal assistance or minor shipping adjustments.
+
+Normal domestic transactions reinforce the everyday nature of the account: revenue includes a $5,834 check from Euphoria Coffee Roasters on 24 January 2025 and an ACH from Sonder Coffee on 31 December 2024; routine expenses include a $473 check to Customs Brokerage Inc. on 27 January 2025 for freight and a $100 peer‑to‑peer payment to RGM Accounting Services on 3 December 2024 for a BOI filing fee.
+
+In sum, funds flow from U.S. buyers, remain briefly in the account, and are disbursed to overseas suppliers or local service providers—exactly what one would expect for an import‑trade working‑capital cycle. No unexplained counterparties, circular transfers or indicators of structuring, layering or sanctions evasion were found. Routine monitoring commensurate with the business’s moderate inherent risk remains appropriate.
