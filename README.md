@@ -1,24 +1,33 @@
-Bank monitoring flagged three categories of cash-related activity during 2025: Structured Cash Deposits, Large Cash Deposits (including ATM deposits), and associated Cash-In/Wire-Out transactions.
+Bank monitoring flagged two categories of cash-related activity during the review period: Structured Cash Deposits and Large Cash Deposits made through ATMs.
 
-The structured cash-deposit alert was triggered by two deposits made on consecutive business days at the same Bank of America financial-center ATM (3120 W Grant Line Rd, Tracy, CA):
-	-	30-Apr-2025 — cash deposit $4,050
-	-	01-May-2025 — cash deposit $8,000
+Transactions that triggered the alerts
 
-These deposits represent a single occurrence with no similar sub-48-hour patterns elsewhere in the customer’s history. The transactions occurred at the same location within normal business hours, indicating customer convenience rather than efforts to evade reporting thresholds or conceal funds.
+Structured Cash Deposits
+• 11-Mar-2025 — cash deposit $5,235
+• 11-Mar-2025 — cash deposit $100
+• 12-Mar-2025 — cash deposit $4,700
 
-Separately, large-cash-deposit alerts were triggered by the following transactions:
-	-	27-Jan-2025 — cash deposit $5,500
-	-	18-Mar-2025 — cash deposit $5,000
-	-	30-Apr-2025 — cash deposit $4,050
-	-	01-May-2025 — cash deposit $8,000
-	-	18-Jun-2025 — cash deposit $11,000
+Large Cash Deposits
+• 31-Jan-2025 — cash deposit $5,800
+• 06-Feb-2025 — cash deposit $3,000
+• 24-Feb-2025 — cash deposit $2,900
+• 28-Feb-2025 — cash deposit $3,500
+• 29-Mar-2025 — cash deposit $3,000
+• 01-Apr-2025 — cash deposit $4,000
+• 03-Apr-2025 — cash deposit $3,000
+• 30-Apr-2025 — cash deposit $3,000
+• 02-May-2025 — cash deposit $2,600
+• 23-May-2025 — cash deposit $4,500
+• 28-May-2025 — cash deposit $2,800
+• 30-May-2025 — cash deposit $3,400
+• 10-Jun-2025 — cash deposit $5,500
 
-These deposits total $33,550 over approximately six months, a moderate and reasonable sum. They primarily funded outgoing wires that separately triggered the Cash-In/Wire-Out alert:
-	-	11-Jun-2025 — wire $8,300 to Dongguan Hanyu Apparel
-	-	20-Jun-2025 — wire $11,000 to Dongguan Hanyu Apparel
+The structured cash deposits made on 11–12 March 2025 totaled $10,035, triggering the structured deposit alert. This was the only sub-48-hour period during the six-month review where cash deposits collectively exceeded the $10,000 reporting threshold. All other deposits occurred individually, separated by intervals of at least four days, indicating no ongoing structuring pattern.
 
-Open-source research revealed that the customer is the registered agent for emmy.boutique LLC, located at the customer’s address. Given the business’s name, it likely sells clothing, supporting the legitimacy of wires sent to Dongguan Hanyu Apparel in Hong Kong, a non-high-risk jurisdiction, as ordinary inventory purchases. The timing and amounts of the cash deposits align closely with these wires, demonstrating a direct flow of funds from deposits to a known business counterparty.
+Although the review period includes thirteen large cash deposits totaling approximately $47,000, these transactions are not egregious in terms of frequency or size. Each deposit remained well below the $10,000 threshold, occurred sporadically, and appeared aligned with regular, routine financial activities. Furthermore, these cash deposits primarily funded consistent outflows via ACH payments, demonstrating ordinary financial activity rather than suspicious accumulation or rapid cycling of funds.
 
-A sampling of additional inflows and outflows further illustrates the nonsuspicious nature of account activity. The customer repeatedly receives ACH payroll deposits, notably recurring child support payments of $284, such as on 13-Jun-2025. They also receive ACH credits from Square Inc., including $1,300 and $41 on 17-Mar-2025, consistent with small business transactions. Outflows primarily include routine wires such as the $8,300 wire to Dongguan Hanyu Apparel noted above, along with regular online banking debit card payments, such as $103 on 18-May-2025.
+Outflows were predominantly ACH-driven, including significant recurring payments to known creditors, such as $5,000 paid to American Express on 18-Mar-2025 and another $5,000 payment on 20-Jun-2025. These transactions illustrate routine personal expenditures rather than irregular or unexplained payments.
 
-Across all reviewed activity, there are no indicators of suspicious financial behaviors such as repeated structuring patterns, rapid cycling, layering, concealment attempts, or transfers involving unfamiliar or high-risk counterparties. The documented transactions collectively reflect ordinary, legitimate personal and business cash management.
+Additional inflows to the account include an ACH payroll deposit of $779 from AGCO on 28-Feb-2025, as well as a check deposit for $3,100 annotated with “rent” on 09-Jun-2025. These legitimate and documented sources further illustrate ordinary personal financial management.
+
+Across all reviewed activity, no indicators of suspicious financial behavior—such as repeated structuring cycles or dealings with unfamiliar or high-risk counterparties—were identified. The transactions collectively reflect ordinary and legitimate personal cash management.
